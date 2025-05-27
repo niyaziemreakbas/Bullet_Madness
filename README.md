@@ -5,4 +5,3 @@ So I was developing this game by myself and I decided to cancel this project for
 
 If my code helps for anything u can use wherever u want. But let me know.
 
-Thanks for reading it. Wait for other projects...
